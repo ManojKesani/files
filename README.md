@@ -1,3 +1,3 @@
 # files
 
-repo for diffrent file formats for testing.
+repo with file formats for testing.
